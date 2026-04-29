@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nikita Chaudhary 👋
 
-<!--
-**CodeWithNikita-04/CodeWithNikita-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd year B.Tech Computer Science student at ICFAI University, Jaipur.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, HTML, CSS, SQL
+- **Tools:** Microsoft Power BI, Git, GitHub, VS Code
+- **Concepts:** Data Visualization, Data Modeling, DAX, Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Django (CS50W — Harvard University)
+- Data Structures & Algorithms (Striver's A2Z)
+
+## 🏅 Certifications
+- Microsoft Elevate Program — Business Intelligence with Power BI
+- Microsoft Azure — Cloud Administration & Engineering
+- Microsoft — Artificial Intelligence & Machine Learning
+- Microsoft & EY — Technology Skills Certification
+- NPTEL (IIT Madras) — Joy of Computing Using Python (Elite, 77%)
+- CS50W: Web Programming with Python & JavaScript (In Progress)
+
+## 📫 Connect with Me
+- LinkedIn: linkedin.com/in/nikita-chaudhary-a42735356
+- Email: nikki3461jpr@gmail.com
