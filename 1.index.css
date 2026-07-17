@@ -1,0 +1,84 @@
+/* <!--
+h3{
+    color: gray;
+}
+
+p{
+    color:rgb(174, 84, 99);
+}
+
+button{
+    color:brown;
+    background-color: blanchedalmond;
+}
+
+body{
+    background-color:#ff00ff;
+}
+--> */
+
+
+/* body{
+    background-color:rgb(174, 255, 127);
+}
+
+h2{
+    color:rgb(255,255,0);
+}
+
+h3{
+    color:rgb(0,255,255);
+}
+
+button{
+    color:brown;
+    background-color:darkgrey;
+}
+
+p{
+    color:rgb(255,0,255);
+}
+*/
+
+/* body{
+    background-color: #ffcccc;
+}
+h2{
+    color: #ff0000;
+}
+
+h3{
+    color:#265526;
+}
+
+p{
+    color:#0000ff;
+}
+
+button{
+    color: #ff00ff;
+    background-color: #ffff00;
+} */
+
+/* universak selector */
+*{
+    color:rgb(138, 36, 53);
+}
+
+/* element selector */
+h2{
+    color:blue;
+}
+
+/* id selector */
+#ID-101{
+    color:rgb(136, 127, 255);
+}
+
+#ID-102{
+    color:cadetblue;
+}
+
+.CLASS-103{
+    color:rgb(25, 91, 91)
+}
